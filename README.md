@@ -1,5 +1,7 @@
 <div style="text-align:center">
+
 ![logo](https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png)
+
 </div>
 
 ___
